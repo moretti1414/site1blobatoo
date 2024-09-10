@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+   padding: 0;
+
+}
+
+:root{
+
+
+}
+
+.cabecalho{
+   background-color: red;
+}
+
+.corpo{
+background-color: black;
+}
+
+.footer{
+background-color: rgba(red, green, blue, alpha);
+
+}
