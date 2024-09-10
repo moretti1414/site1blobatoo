@@ -11,14 +11,15 @@
 
 .cabecalho{
    background-color: red;
-padding: 100px;;
+padding: 20px;;
 }
 
 .corpo{
 background-color: black;
+padding: 20%;
 }
 
 .footer{
 background-color: darkblue;
-
+padding: 25%;
 }
