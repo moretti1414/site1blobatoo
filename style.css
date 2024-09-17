@@ -9,17 +9,17 @@
 }
 
 .cabecalho{
-   background-color: rgb(255, 145, 0);
+   background-color: rgb(68, 67, 67);
 padding: 115px;;
 }
 
 .corpo{
-background-color: rgb(1, 90, 255);
+background-color: rgb(228, 0, 0);
 padding: 150;
 }
 
 .footer{
-background-color: rgb(255, 0, 0);
+background-color: rgb(58, 57, 57);
 padding: 145%;
 }
 
