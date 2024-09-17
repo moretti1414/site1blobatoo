@@ -14,11 +14,30 @@ padding: 115px;;
 }
 
 .corpo{
-background-color: rgb(1, 90, 255)
-padding: 150%;
+background-color: rgb(1, 90, 255);
+padding: 150;
 }
 
 .footer{
 background-color: rgb(255, 0, 0);
 padding: 145%;
 }
+
+ .boton{
+   position: fixed;
+   top: 20px;
+   left: 20px;
+   padding: 10px 20px;
+background-color: rgb(89, 0, 255);
+color: darkred;
+text-decoration: none;
+border-color: dimgrey;
+ }
+
+ .boton:hover{
+background:linear-gradient(to right, #00e1ff, #00fff2, #0061f3);
+
+ }
+ .boton:active{
+   font-size: 15px;
+ }
