@@ -29,9 +29,9 @@ padding: 145%;
    left: 20px;
    padding: 10px 20px;
 background-color: rgb(89, 0, 255);
-color: darkred;
+color: rgb(255, 12, 12);
 text-decoration: none;
-border-color: dimgrey;
+border-color: rgb(255, 255, 255);
  }
 
  .boton:hover{
