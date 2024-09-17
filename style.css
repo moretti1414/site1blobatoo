@@ -28,14 +28,14 @@ padding: 145%;
    top: 20px;
    left: 20px;
    padding: 10px 20px;
-background-color: rgb(217, 255, 0);
+background-color: rgb(255, 17, 0);
 color: rgb(26, 226, 0);
 text-decoration: none;
 border-color: rgb(255, 255, 255);
  }
 
  .boton:hover{
-background:linear-gradient(to right, #ff00c8, #8b0074, #cc01b1);
+background:linear-gradient(to right, #ff0000, #3d3b3d, #ff0000);
 
  }
  .boton:active{
