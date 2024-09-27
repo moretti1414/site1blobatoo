@@ -41,3 +41,11 @@ background:linear-gradient(to right, #ff0000, #0036c9cc, #ff0000);
  .boton:active{
    font-size: 15px;
  }
+
+ .container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  width: 550px;
+  margin: auto;
+ }
