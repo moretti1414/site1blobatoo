@@ -35,7 +35,7 @@ border-color: rgb(4, 156, 245);
  }
 
  .boton:hover{
-background:linear-gradient(to right, #ff0000, #f50303cc, #ff0000);
+background:linear-gradient(to right, #ff0000, #0036c9cc, #ff0000);
 
  }
  .boton:active{
