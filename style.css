@@ -49,3 +49,9 @@ background:linear-gradient(to right, #ff0000, #0036c9cc, #ff0000);
   width: 550px;
   margin: auto;
  }
+  img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    
+  }
