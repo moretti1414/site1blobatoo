@@ -45,7 +45,7 @@ background:linear-gradient(to right, #ff0000, #0036c9cc, #ff0000);
  .container{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 25px;
+  gap: 55px;
   width: 90px;
   margin: auto;
  }
