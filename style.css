@@ -45,13 +45,13 @@ background:linear-gradient(to right, #ff0000, #0036c9cc, #ff0000);
  .container{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 120px;
+  gap: 50px;
   width: 99px;
   margin: 100px;
  }
   img{
     width: 160%;
-    height: 190px;
+    height: 200px;
     object-fit: cover;
     
   }
