@@ -39,13 +39,13 @@ background:linear-gradient(to right, #ff0000, #0036c9cc, #ff0000);
 
  }
  .boton:active{
-   font-size: 50px;
+   font-size: 100px;
  }
 
  .container{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 55px;
+  gap: 120px;
   width: 90px;
   margin: auto;
  }
