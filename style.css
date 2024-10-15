@@ -46,8 +46,8 @@ background:linear-gradient(to right, #ff0000, #0036c9cc, #ff0000);
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 120px;
-  width: 130px;
-  margin: 130px;
+  width: 99px;
+  margin: 100px;
  }
   img{
     width: 150%;
