@@ -50,8 +50,8 @@ background:linear-gradient(to right, #ff0000, #0036c9cc, #ff0000);
   margin: 90px;
  }
   img{
-    width: 50%;
-    height: 79px;
+    width: 110%;
+    height: 10px;
     object-fit: cover;
     
   }
